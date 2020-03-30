@@ -1,3 +1,4 @@
+/* vertical */
 .vertItem {
     flex-direction: row;
 }
@@ -10,4 +11,18 @@
 .textCol {
     max-width: 25%;
     padding: 0 15px;
+}
+
+/* horizontal */
+.horizontal {
+    flex-direction: row;
+    overflow-x: scroll;
+}
+
+.horiOverview {
+    max-width: 50%;
+}
+
+.horiItems {
+    max-width: 50%;
 }
