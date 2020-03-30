@@ -1,0 +1,13 @@
+.vertItem {
+    flex-direction: row;
+}
+
+.vertItem .imgCol {
+    max-width: 75%;
+    padding: 0 15px;
+}
+
+.textCol {
+    max-width: 25%;
+    padding: 0 15px;
+}
